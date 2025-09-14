@@ -16,7 +16,6 @@
 - 🌱 Always exploring **system design, algorithms, and emerging tech**  
 - 🌌 Fun fact: *I find peace in chaos!*  
 - 👨‍💻 All of my projects are available at [https://github.com/latenightcoder-git](https://github.com/latenightcoder-git)
-- 📝 I mostly post my articles on [https://medium.com/@madhu_codes_cosmos](https://medium.com/@madhu_codes_cosmos)
 ---
 
 ## 🛠️ Tech Stack  
