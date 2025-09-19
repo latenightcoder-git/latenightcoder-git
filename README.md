@@ -14,7 +14,8 @@
 - 💻 Focused on **Java (Spring Boot), Python, AI/ML, SQL, React**  
 - 🚀 Building impactful projects like **Wrist Wave** (safety wearable) & **Study Timer** (productivity tool)  
 - 🌱 Always exploring **system design, algorithms, and emerging tech**  
-- 🌌 Fun fact: *I find peace in chaos!*  
+- 🌌 Fun fact: *I find peace in chaos!*
+- 📝 I mostly post my articles on [https://medium.com/@shecodescosmos](https://medium.com/@shecodescosmos)
 - 👨‍💻 All of my projects are available at [https://github.com/latenightcoder-git](https://github.com/latenightcoder-git)
 ---
 
